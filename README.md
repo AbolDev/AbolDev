@@ -1,19 +1,12 @@
 ## Hi there 👋
 
-<!--
-**AbolDev/AbolDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [File-Manager](https://github.com/AbolDev/File-Manager)
+- 🌱 I’m currently learning [C++](https://www.w3schools.com/cpp/)
+- 💬 Ask me about Python, Flask, TeleBot
+- 📫 How to reach me: **abaqry554@gmail.com**
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +24,3 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Activity:</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbolDev&theme=monokai" alt="GitHub Streak" /></a>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AbolDev&theme=monokai)](https://git.io/streak-stats) -->
