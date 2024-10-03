@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">My Activity:</h3>
+My Activity:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbolDev&theme=monokai)](https://git.io/streak-stats)
