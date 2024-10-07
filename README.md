@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [File-Manager](https://github.com/AbolDev/File-Manager)
 - 🌱 I’m currently learning [C++](https://www.w3schools.com/cpp/)
 - 💬 Ask me about **Python, Flask, TeleBot**
-- 📫 How to reach me: **abaqry554@gmail.com**
+- 📫 How to reach me: **abaqry8686@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 
