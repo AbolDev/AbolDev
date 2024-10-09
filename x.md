@@ -36,9 +36,9 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolDev&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbolDev&theme=transparent" height="180em" alt="Commitments"/>
 </div>
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
+</p> -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:abaqry8686@gmail.com" target="_blank">
