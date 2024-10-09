@@ -2,14 +2,14 @@
   <img src="assets/header.png"/>
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=AbolDev;Software+Engineer" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning" width="auto" height="35"/>
 </p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
@@ -44,14 +44,14 @@
   <a href="mailto:abaqry8686@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.me" target="_blank">
+  <!-- &nbsp;&nbsp;&nbsp; -->
+  <!-- <a href="https://samarjit.me" target="_blank">
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/AbolDev/" target="_blank">
+  </a> -->
+  <!-- &nbsp;&nbsp;&nbsp; -->
+  <!-- <a href="https://linkedin.com/in/AbolDev/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
+  </a> -->
 </p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
