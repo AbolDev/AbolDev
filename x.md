@@ -41,7 +41,7 @@
 </p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+  <a href="mailto:abaqry8686@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
