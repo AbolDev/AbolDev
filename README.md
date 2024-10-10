@@ -11,8 +11,8 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning" width="auto" height="35"/>
 </p>
-<p align="center">🔭 I’m currently learning on <a href="https://www.w3schools.com/cpp/">C++</a></p>
-<p align="center">🌱 I’m currently working <a href="https://github.com/AbolDev/File-Manager">File-Manager</a></p>
+<p align="center">🔭 I’m currently learning <a href="https://www.w3schools.com/cpp/">C++</a></p>
+<p align="center">🌱 I’m currently working on <a href="https://github.com/AbolDev/File-Manager">File-Manager</a></p>
 <p align="center">💬 Ask me about <strong>Python, Flask, TeleBot</strong></p>
 <p align="center">📫 How to reach me: <strong>abaqry8686@gmail.com</strong></p>
 <p align="center">😄 Pronouns: <strong>He/Him</strong></p>
